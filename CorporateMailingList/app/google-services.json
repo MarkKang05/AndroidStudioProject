@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400765543477",
+    "project_id": "mailing-app-89737",
+    "storage_bucket": "mailing-app-89737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400765543477:android:90527a4c7a6c8420b9fd7c",
+        "android_client_info": {
+          "package_name": "com.corporatemailinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400765543477-s6gsioi1nttajp22jqb3rqtr3d4bj22r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YIs4JjbPIHtQD6HH32vetcZE01vR6cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400765543477-s6gsioi1nttajp22jqb3rqtr3d4bj22r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
